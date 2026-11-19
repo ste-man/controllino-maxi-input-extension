@@ -23,13 +23,9 @@ LED for each channel.
 
 ## Photos
 
-| PCB render | Assembled board and ribbon cable |
+| PCB render | Board and DIN-rail holder |
 |---|---|
-| <img src="photos-public/render-front.png" alt="KiCad 3D render of the PCB" width="300"> | <img src="photos-public/20261119_203610.jpg" alt="Assembled board in its DIN-rail holder next to the ribbon cable" width="380"> |
-
-| Board and DIN-rail holder | Connected to the PLC |
-|---|---|
-| <img src="photos-public/20261119_203735.jpg" alt="Bare board next to the empty DIN-rail holder" width="380"> | <img src="photos-public/20261119_202903.jpg" alt="Board connected to the CONTROLLINO MAXI with a ribbon cable" width="380"> |
+| <img src="photos-public/render-front.png" alt="KiCad 3D render of the PCB" width="300"> | <img src="photos-public/20261119_203735.jpg" alt="Bare board next to the empty DIN-rail holder" width="380"> |
 
 ## How it works
 
