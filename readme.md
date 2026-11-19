@@ -58,5 +58,5 @@ Input current at 24 V is ~0.42 mA per channel.
 
 ## Bill of materials
 
-Recommended component manufacturer and part numbers are attached to schematic symbol properties. See image of symbol properties table below:
+Recommended component manufacturer and part numbers are attached to KiCad schematic symbol properties. See image of symbol properties table below:
 <img src="photos-public/symbol-properties-table.png " alt="KiCad symbol properties table" width="1000">
