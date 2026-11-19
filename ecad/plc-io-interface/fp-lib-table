@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "project-footprint-library") (type "KiCad") (uri "/home/engineer/mediadisk/documents/projects/uf_controllino-input-extension/ecad/project-footprint-library.pretty") (options "") (descr ""))
+)
