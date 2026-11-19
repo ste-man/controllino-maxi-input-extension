@@ -3741,7 +3741,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17414"
+		(property "Manufacturer" "YAGEO"
+			(at 90.17 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC0805JR-0710KL"
 			(at 90.17 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -3856,7 +3867,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17604"
+		(property "Manufacturer" "YAGEO"
+			(at 87.63 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "AC0805FR-7W2KL"
 			(at 87.63 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -4203,7 +4225,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "YAGEO"
+			(at 190.5 85.09 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "AC0805FR-071KL"
 			(at 190.5 85.09 90)
 			(hide yes)
 			(show_name no)
@@ -4394,7 +4427,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17414"
+		(property "Manufacturer" "YAGEO"
+			(at 90.17 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC0805JR-0710KL"
 			(at 90.17 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -4507,7 +4551,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "AMPHENOL COMMUNICATIONS SOLUTIONS"
+			(at 45.72 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "T821126A1S100CEU"
 			(at 45.72 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4781,7 +4836,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "LITEON"
+			(at 215.9 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "LTST-C171KGKT"
 			(at 215.9 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -4894,7 +4960,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "YAGEO"
+			(at 69.85 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC1206JR-0747KL"
 			(at 69.85 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -5174,7 +5251,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "LITEON"
+			(at 215.9 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "LTST-C171KGKT"
 			(at 215.9 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -5300,7 +5388,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "Harvatek Corporation"
+			(at 87.63 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "B1701NB--20D000114U1930"
 			(at 87.63 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -5491,7 +5590,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17414"
+		(property "Manufacturer" "YAGEO"
+			(at 90.17 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC0805JR-0710KL"
 			(at 90.17 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -5615,7 +5725,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "LITEON"
+			(at 215.9 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "LTST-C171KGKT"
 			(at 215.9 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -5962,7 +6083,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "NEXPERIA"
+			(at 176.53 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "74HC125D,653"
 			(at 176.53 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6347,7 +6479,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C49678"
+		(property "Manufacturer" "YAGEO"
+			(at 262.89 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "CC0805ZRY5V9BB104"
 			(at 262.89 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -6616,7 +6759,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "YAGEO"
+			(at 69.85 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC1206JR-0747KL"
 			(at 69.85 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -6729,7 +6883,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "YAGEO"
+			(at 190.5 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "AC0805FR-071KL"
 			(at 190.5 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -6853,7 +7018,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "LITEON"
+			(at 215.9 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "LTST-C171KGKT"
 			(at 215.9 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -6968,7 +7144,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C49678"
+		(property "Manufacturer" "YAGEO"
+			(at 82.55 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "CC0805ZRY5V9BB104"
 			(at 82.55 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7081,7 +7268,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "WAGO Corporation"
+			(at 35.56 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "2086-3104"
 			(at 35.56 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -7280,7 +7478,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "ITALTRONIC"
+			(at 182.88 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "07.6610000"
 			(at 182.88 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -7465,7 +7674,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C17414"
+		(property "Manufacturer" "YAGEO"
+			(at 90.17 87.63 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC0805JR-0710KL"
 			(at 90.17 87.63 90)
 			(hide yes)
 			(show_name no)
@@ -7578,7 +7798,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "YAGEO"
+			(at 190.5 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "AC0805FR-071KL"
 			(at 190.5 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -7771,7 +8002,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C49678"
+		(property "Manufacturer" "YAGEO"
+			(at 95.25 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "CC0805ZRY5V9BB104"
 			(at 95.25 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -7886,7 +8128,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "NEXPERIA"
+			(at 240.03 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "74HC125D,653"
 			(at 240.03 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -8113,7 +8366,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "NEXPERIA"
+			(at 176.53 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "74HC125D,653"
 			(at 176.53 110.49 0)
 			(hide yes)
 			(show_name no)
@@ -8262,7 +8526,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "YAGEO"
+			(at 69.85 110.49 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC1206JR-0747KL"
 			(at 69.85 110.49 90)
 			(hide yes)
 			(show_name no)
@@ -8375,7 +8650,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "YAGEO"
+			(at 69.85 121.92 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "RC1206JR-0747KL"
 			(at 69.85 121.92 90)
 			(hide yes)
 			(show_name no)
@@ -8490,7 +8776,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C49678"
+		(property "Manufacturer" "YAGEO"
+			(at 57.15 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "CC0805ZRY5V9BB104"
 			(at 57.15 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -8605,7 +8902,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C49678"
+		(property "Manufacturer" "YAGEO"
+			(at 69.85 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "CC0805ZRY5V9BB104"
 			(at 69.85 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -8718,7 +9026,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "EVALUATE!!"
+		(property "Manufacturer" "YAGEO"
+			(at 190.5 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "AC0805FR-071KL"
 			(at 190.5 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -8909,7 +9228,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "NEXPERIA"
+			(at 176.53 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "74HC125D,653"
 			(at 176.53 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -9136,7 +9466,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "Manufacturer" "NEXPERIA"
+			(at 176.53 85.09 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part number" "74HC125D,653"
 			(at 176.53 85.09 0)
 			(hide yes)
 			(show_name no)
